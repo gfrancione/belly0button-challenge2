@@ -1,0 +1,7 @@
+BellyButton Challenge
+
+Completing this challenge I had substantial help from my classmates and a tutor session.
+
+I feel that quite a bit of the struggle that I had came from stopping and starting with this assignement and not always picking backup where I left off.
+
+I also created alot of confusion by using loading the json and trying to input the samples manually. 
